@@ -3,6 +3,7 @@ Question: Sorting an array from selection sort method (finding the minimum and p
 repeating this step until the array gets sorted in an ascending order)
 Time Complexity: O(n^2)
 Space Complexity: O(1) - Inplace sorting algorithm
+
 Step by step procedure(by tutorialpoint):
 
 Step 1 − Set MIN to location 0
